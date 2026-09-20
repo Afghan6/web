@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://afghan6.github.io/web/sitemap.xml
+Sitemap: https://afghn.edrissafi392.workers.dev/sitemap.xml
